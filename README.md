@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Java Camp
+- 🔭 I’m currently working on Java 
 - 🌱 I’m currently learning Java and C#
 - 📫 How to reach me: Gmail:Mehmetkarakas415@gmail.com
 - 🦸https://www.linkedin.com/in/mehmet-karaka%C5%9F-8538a61aa/
