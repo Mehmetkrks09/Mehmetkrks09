@@ -6,7 +6,7 @@
 - İf You Follow My Page You Will See soon , I Will Share Step By Step  Thanks Advance
 - 🌱 I have Learnt  Java and C# 
 - 📫 How to reach me: Gmail:Mehmetkarakas415@gmail.com
-- 🦸https://www.linkedin.com/in/mehmet-karaka%C5%9F-8538a61aa/
+- 🦸https://www.linkedin.com/in/mehmet-karakaş/
 - ⚡ Fun fact: Coffe is awesome thing ⏰
 
 
