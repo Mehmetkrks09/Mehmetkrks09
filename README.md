@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working A Project With Java and React 
+- 🔭 I’m currently working on MyGameFriend Project 
 - İf You Follow My Page You Will See soon , I Will Share Step By Step  Thanks Advance
-- 🌱 I have Learnt  Java and C# 
+- 🌱 I have Learnt  Java and C# React,JavaScript,SQl
 - 📫 How to reach me: Gmail:Mehmetkarakas415@gmail.com
 - 🦸https://www.linkedin.com/in/mehmet-karakaş/
 - ⚡ Fun fact: Coffe is awesome thing ⏰
